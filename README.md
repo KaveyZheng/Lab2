@@ -2,7 +2,7 @@
 
 ### App Description
 - Flashcard app segues between flashcard and creation screens
-- Creation screen includes "Cancel" and "Done" bar buttons and throws an alert if flashcard is invalid
+- Creation screen includes functional "Cancel" and "Done" bar buttons and throws an alert if flashcard is invalid
 - User can edit existing flash card
 
 ### App Walk-though
