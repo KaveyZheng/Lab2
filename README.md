@@ -1,7 +1,9 @@
 ## Lab 2
 
 ### App Description
-`TODO://` Add app description
+- Flashcard app segues between flashcard and creation screens
+- Creation screen includes "Cancel" and "Done" bar buttons and throws an alert if flashcard is invalid
+- User can edit existing flash card
 
 ### App Walk-though
 <img src="https://user-images.githubusercontent.com/109322859/192909634-a0ddbcbd-7e97-4e72-8a0b-3f303d21cf9a.gif" width=200><br>
